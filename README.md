@@ -5,7 +5,7 @@ A simple CLI to update your domain with your current IP
 ## Installation
 
 ```
-deno install --allow-env --allow-net https://raw.githubusercontent.com/DanielRamosAcosta/gdu/main/mod.ts
+deno install --allow-env --allow-net https://raw.githubusercontent.com/DanielRamosAcosta/gdu/main/gdu.ts
 ```
 
 Env permissions are optional.
